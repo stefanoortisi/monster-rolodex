@@ -1,4 +1,7 @@
+// React is the application itself
 import React from 'react';
+// ReactDOM is related to web. 
+// Other application from React is for example ReactNative
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
